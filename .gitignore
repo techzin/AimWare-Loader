@@ -1,0 +1,10 @@
+
+*.txt
+*.cache
+*.pdb
+.vs/AimWare-Loader/v16/.suo
+bin/Debug/AimWare-Loader.exe
+bin/Debug/AimWare-Loader.exe.config
+obj/Debug/AimWare-Loader.exe
+obj/Debug/AimWare_Loader.Properties.Resources.resources
+.vs/AimWare-Loader/v16/.suo
