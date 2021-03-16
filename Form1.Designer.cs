@@ -217,6 +217,7 @@ namespace AimWare_Loader
             this.guna2Button1.Size = new System.Drawing.Size(320, 40);
             this.guna2Button1.TabIndex = 9;
             this.guna2Button1.Text = "Login";
+            this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click);
             // 
             // gunaLabel4
             // 
